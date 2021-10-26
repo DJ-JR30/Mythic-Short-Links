@@ -10,5 +10,5 @@ console.log('Hello World!');
 
 
 
-//    https://MythicSh0rt.glitch.com/
+//    https://sh0rten.glitch.com/
 
